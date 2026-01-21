@@ -1,0 +1,1 @@
+Este es un proyecto de desarrollo web enfocado en la gestión de sesiones y administración de usuarios. Permite realizar un flujo completo de autenticación, desde el registro e inicio de sesión hasta la visualización y eliminación de registros en la base de datos.
